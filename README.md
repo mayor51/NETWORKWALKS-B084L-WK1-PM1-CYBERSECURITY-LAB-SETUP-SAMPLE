@@ -66,7 +66,7 @@ The virtual machine connects to a dedicated NAT Network. Additional virtual mach
 
 The following table provides a configuration template. Replace example values with the actual specifications and settings of your system.
 
-```
+
 | Component | Configuration |
 |---|---|
 | Host OS | Windows (actual version to be recorded) |
@@ -81,7 +81,7 @@ The following table provides a configuration template. Replace example values wi
 | Default Gateway | 8.8.8.8 |
 | DNS Server | 8.8.8.8  |
 
-```
+
 
 # 🪜 Lab Setup Procedure
 
@@ -174,7 +174,7 @@ Network Adapter: NAT Network
 Network Name: NatNetwork 1
 ```
 
-![kali linux virtual](screenshots/kali%20linux%20virtual%20.png.png)
+![kali linux virtual](screenshots/kali%20linux%20virtual%20.png)
 
 ## Step 5: Configure the Kali Linux Network
 
