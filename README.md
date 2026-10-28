@@ -4,7 +4,6 @@
 
 Building an isolated virtual lab for penetration testing and ethical hacking practice.
 
----
 
 ## 📌 Project Overview
 
@@ -67,6 +66,7 @@ The virtual machine connects to a dedicated NAT Network. Additional virtual mach
 
 The following table provides a configuration template. Replace example values with the actual specifications and settings of your system.
 
+```
 | Component | Configuration |
 |---|---|
 | Host OS | Windows (actual version to be recorded) |
@@ -81,8 +81,7 @@ The following table provides a configuration template. Replace example values wi
 | Default Gateway | 8.8.8.8 |
 | DNS Server | 8.8.8.8  |
 
-
----
+```
 
 # 🪜 Lab Setup Procedure
 
@@ -372,6 +371,3 @@ Week: 01
 Project: Cybersecurity and Penetration-Testing Lab Setup
 
 Repository Name: `NETWORKWALKS-B084L-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE`
-
-#   N E T W O R K W A L K S - B 0 8 4 L - W K 1 - P M 1 - C Y B E R S E C U R I T Y - L A B - S E T U P - S A M P L E  
- 
